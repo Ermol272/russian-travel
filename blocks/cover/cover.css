@@ -1,0 +1,10 @@
+.cover{
+    max-width: 1184px;
+    margin: 0 auto;
+    background-image: url(../../../images/dobaykala.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -moz-background-size:cover;
+    -webkit-background-size:cover;
+}
