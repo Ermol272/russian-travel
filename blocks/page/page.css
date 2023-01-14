@@ -4,7 +4,9 @@
     margin: 0 auto;
     box-sizing: border-box;
     min-height: 100vh;
-    font-family: 'Inter', Arial, sans-serif;
+    font-family: "Inter", "Arial", "sans-serif";
+    font-style:  normal;
+    font-weight: 400;
     color: #FFFFFF;
     display: grid;
     justify-content: center;
