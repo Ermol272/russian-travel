@@ -6,7 +6,11 @@
     color: #FFFFFF;
     margin-right: 18px;
     text-decoration: none;
+    transition: 1s ease-in-out;
 }
 .footer__link:last-child{
     margin-right: 0;
+}
+.footer__link:hover{
+    opacity: 0.8;
 }

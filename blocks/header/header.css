@@ -1,7 +1,6 @@
 .header{
-    max-width: 1184px;
-    margin: 28px 48px 0 48px;
-    padding: 0;
+    max-width: 100%;
+    padding: 28px 48px 0 48px;
     box-sizing: border-box;
     grid-area: header;
     display: flex;
