@@ -5,3 +5,22 @@
     grid-row: 2 / 3;
     grid-column: 1 / 2;
 }
+@media screen and (max-width: 1148px){
+    .place__img{
+        max-width: 440px;
+        max-height: 440px;
+    }
+}
+@media screen and (max-width: 926px){
+    .place__img{
+        max-width: 340px;
+        max-height: 340px;
+    }
+}
+@media screen and (max-width: 704px) {
+    .place__img{
+        grid-row: 3 / 4;
+        max-width: 320px;
+        max-height: 320px;
+    }
+}

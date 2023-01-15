@@ -3,3 +3,18 @@
     max-width: 1280px;
     margin: 56px 0 92px 0;
 }
+@media screen and (max-width: 1024px){
+    .main{
+        margin-top: 48px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .main{
+        margin-bottom: 90px;
+    }
+}
+@media screen and (max-width: 320px) {
+    .main{
+        margin: 48px 0 64px 0;
+    }
+}
