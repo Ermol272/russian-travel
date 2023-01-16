@@ -13,7 +13,7 @@
         margin-bottom: 90px;
     }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 344px) {
     .main{
         margin: 48px 0 64px 0;
     }

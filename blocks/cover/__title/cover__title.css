@@ -16,6 +16,6 @@
 }
 @media screen and (max-width: 320px) {
     .cover__title{
-        max-width: 250px;/**ограничио по ширине. Изменения высоты не влияли на перенос частицы "На"**/
+        max-width: 250px;
     }
 }
